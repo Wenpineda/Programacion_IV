@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author cance
+ * @author Wendy Liseth Chacon Pineda
  */
 
 //Dado el arreglo de las letras del alfabeto de la A a la Z, hacer un programa en Java que
